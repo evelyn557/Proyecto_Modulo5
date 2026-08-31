@@ -44,7 +44,7 @@ Una base de datos relacional es un sistema organizado que almacena información 
 | :--- | :--- | :--- |
 | **Base de Datos** | Un archivador o cajón completo de documentos. | `AlkeWallet` |
 | **Tabla** | Una libreta o sección específica de contactos. | Tabla `usuario` |
-| **Fila (Tupla)** | Una línea con los datos de una persona específica. | Registro de Ana Pérez |
+| **Fila (Tupla)** | Una línea con los datos de una persona específica. | Registro de Evelyn Sepúlveda |
 | **Columna (Atributo)** | La categoría o etiqueta (Ej: Teléfono). | `correo_electronico` |
 
 ---
