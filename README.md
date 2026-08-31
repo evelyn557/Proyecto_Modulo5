@@ -110,19 +110,24 @@ Se realizaron inserciones iniciales en las tablas `moneda`, `usuario` y `transac
 ### 4.1 Creación de Entidades y Restricciones
 Se crearon las tablas `moneda`, `usuario` y `transaccion` implementando claves primarias (`PK`), claves foráneas (`FK`), restricciones `NOT NULL` y un índice compuesto para optimizar búsquedas frecuentes entre usuarios.
 
-> 📸 [Creación de tablas]<img width="890" height="207" alt="create_table_transaccion" src="https://github.com/user-attachments/assets/0c32207a-0467-4027-a46c-148a9b087b68" />
+> 📸 [Creación de tablas]
+ <img width="890" height="207" alt="create_table_transaccion" src="https://github.com/user-attachments/assets/0c32207a-0467-4027-a46c-148a9b087b68" />
 
 
-> 📸 [Tabla Moneda]<img width="751" height="194" alt="tabla_moneda" src="https://github.com/user-attachments/assets/5cc6b736-6a34-4823-8689-729254c8cc5c" />
+> 📸 [Tabla Moneda]
+ <img width="751" height="194" alt="tabla_moneda" src="https://github.com/user-attachments/assets/5cc6b736-6a34-4823-8689-729254c8cc5c" />
 
 
-> 📸 [Tabla Usuario]<img width="751" height="194" alt="tabla_usuario" src="https://github.com/user-attachments/assets/f2c4e075-7aa5-44cc-a586-ed3703940335" />
+> 📸 [Tabla Usuario]
+ <img width="751" height="194" alt="tabla_usuario" src="https://github.com/user-attachments/assets/f2c4e075-7aa5-44cc-a586-ed3703940335" />
 
 
-> 📸 [Tabla Transacción] <img width="791" height="181" alt="tabla_transaccion_act" src="https://github.com/user-attachments/assets/4a8926f3-af8b-4559-8d0f-ef421850e6af" />
+> 📸 [Tabla Transacción]
+ <img width="791" height="181" alt="tabla_transaccion_act" src="https://github.com/user-attachments/assets/4a8926f3-af8b-4559-8d0f-ef421850e6af" />
 
 
-> 📸 [Indice Compuesto] <img width="1214" height="190" alt="create_index" src="https://github.com/user-attachments/assets/87e42b19-5774-41f0-b349-20361b123648" />
+> 📸 [Indice Compuesto]
+ <img width="1214" height="190" alt="create_index" src="https://github.com/user-attachments/assets/87e42b19-5774-41f0-b349-20361b123648" />
 
 
 ---
